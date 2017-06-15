@@ -38,4 +38,5 @@ nav li::after {
 
 body {
 	background-image: url("../images/outerspace_landscape.jpeg");
+	background-size: cover;
 }
