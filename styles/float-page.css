@@ -20,7 +20,8 @@ main {
 	margin-left: : 20px;
 }
 
-.pic1 .pic2 {
+.pic1, .pic2 {
 	margin-top: 20px;
 	margin-bottom: 20px;
+	width: 300px;
 }
